@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+# Ignore .git directory
+.git/
+
+
 # production
 /build
 
